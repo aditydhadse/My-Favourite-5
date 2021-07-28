@@ -1,0 +1,111 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    text-decoration: none;
+    font-color: white;
+}
+
+.links:hover {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.about {
+    color: #FFFFFF;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+}
+
+
+
+h1 {
+
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+    font-color: red;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+
+#class {
+    width: 400px;
+    height: 500px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+.about {
+    background color: linear-gradient(#42ecf5 0%, #57f7f2 100%);
+}
+
+#Hobby {
+    background-color: cornflowerblue;
+}
+
+#cricket {
+    width: 290;
+    height: 400;
+    border-radius: 30%;
+}
+
+#book {
+    background-color: lightpink;
+}
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    color: white;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    text-decoration: underline;
+    font-size: 25px;
+    text-decoration-color: black;
+}
+
+#Inspiration {
+    background-color: linear-gradient(#c681eb 0%, #baabc2 100%);
+}
+
+#Contact {
+    background-color: floralwhite;
+}
